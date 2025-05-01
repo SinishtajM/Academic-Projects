@@ -3,10 +3,10 @@
 This project analyzes the legal, regulatory, and ethical failures of TechFite, a fictional company, and proposes corrective actions using industry frameworks and best practices.
 
 ## 📄 Contents
-- **TechFite Legal Compliance Analysis.pdf**  
+- **01-techfite-legal-compliance.pdf**  
   Detailed evaluation of TechFite’s violations of the CFAA, ECPA, SOX, GDPR, and NDAs, with a summary for senior leadership on legal exposure and risk mitigation.
 
-- **TechFite Ethical Governance Policy.pdf**  
+- **02-techfite-ethical-governance.pdf**  
   Strategic recommendations for improving organizational ethics through the implementation of security policies, training (SATE), and internal oversight.
 
 ## 📚 Frameworks & Laws Referenced
